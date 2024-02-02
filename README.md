@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @InfernoDarkness
+- 👋 Hi, I’m @ShanrongW
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java, C#, and Labview
